@@ -13,6 +13,6 @@ public class App
         System.out.println( "foo-2" );
         System.out.println( "foo-3" );
         System.out.println( "foo-4" );
-        lol( "foo-5" );
+//        lol( "foo-5" );
     }
 }
