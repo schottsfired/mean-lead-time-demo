@@ -12,5 +12,6 @@ public class App
         System.out.println( "foo-1" );
         System.out.println( "foo-2" );
         System.out.println( "foo-3" );
+        System.out.println( "foo-4" );
     }
 }
