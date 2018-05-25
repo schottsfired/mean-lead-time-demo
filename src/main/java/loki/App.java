@@ -20,7 +20,7 @@ public class App
                 System.out.println( "foo-6" );
 
             System.out.println( "foo-6" );
-            lol System.out.println( "foo-6" );
+            System.out.println( "foo-6" );
 
     }
 }
