@@ -21,7 +21,7 @@ public class App
 
             System.out.println( "foo-6" );
             System.out.println( "foo-6" );
-            System.out.println( "foo-6" );
+            System.out.println( "foof-6" );
 
     }
 }
