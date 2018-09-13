@@ -10,4 +10,6 @@ node {
     stage ('fingerprint') {
         archiveArtifacts artifacts: "target/*.jar", fingerprint: true
     }
+    
+    devOpticsConsumes latestUpstream: true
 }
