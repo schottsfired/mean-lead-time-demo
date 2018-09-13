@@ -11,5 +11,5 @@ node {
         archiveArtifacts artifacts: "target/*.jar", fingerprint: true
     }
     
-    devOpticsConsumes latestUpstream: true
+    devOpticsConsumes jobName: 'qa'
 }
