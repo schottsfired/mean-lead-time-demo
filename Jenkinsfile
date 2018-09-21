@@ -10,6 +10,6 @@ node {
     stage ('fingerprint') {
         archiveArtifacts artifacts: "target/*.jar", fingerprint: true
     }
-    
-    devOpticsConsumes latestUpstream: true
+
+    devOpticsConsumes jobName: 'schott-bug-bash/mean-lead-time-demo/qa'
 }
