@@ -1,7 +1,7 @@
 package loki;
 
 /**
- * Hello world!!!1!1
+ * Hello world!!!1!1!
  *
  */
 public class App
